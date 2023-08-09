@@ -21,11 +21,11 @@ def ytsearch(query):
 def audio_markup(user_id):
   buttons = [
     [
-      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐔𝐏𝐃𝐀𝐓𝐄💞", url=f"https://t.me/khamoshiya01"),
-      InlineKeyboardButton(text="💞𝐉𝐎𝐈𝐍 ✰ 𝐆𝐑𝐎𝐔𝐏💞", url=f"https://t.me/friendship_forever_group143"),
+      InlineKeyboardButton(text="✰𝐔𝐏𝐃𝐀𝐓𝐄✰", url=f"https://t.me/khamoshiya01"),
+      InlineKeyboardButton(text="✰𝐆𝐑𝐎𝐔𝐏✰", url=f"https://t.me/friendship_forever_group143"),
     ],
     [
-      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐎𝐖𝐍𝐄𝐑 💞", url=f"https://t.me/ltzz_me_innocent"),
+      InlineKeyboardButton(text="✰𝐎𝐖𝐍𝐄𝐑✰", url=f"https://t.me/ltzz_me_innocent"),
     ],
     [
       InlineKeyboardButton(text="★ 𝐂ʟᴏ𝐬ᴇ ★", callback_data=f'cls'),
@@ -36,11 +36,11 @@ def audio_markup(user_id):
 def stream_markup(user_id, dlurl):
   buttons = [
     [
-      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐔𝐏𝐃𝐀𝐓𝐄💞", url=f"https://t.me/khamoshiya01"),
-      InlineKeyboardButton(text="💞𝐉𝐎𝐈𝐍 ✰ 𝐆𝐑𝐎𝐔𝐏💞", url=f"https://t.me/friendship_forever_group143"),
+      InlineKeyboardButton(text="✰𝐔𝐏𝐃𝐀𝐓𝐄✰", url=f"https://t.me/khamoshiya01"),
+      InlineKeyboardButton(text="✰𝐆𝐑𝐎𝐔𝐏✰", url=f"https://t.me/friendship_forever_group143"),
     ],
     [
-      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐎𝐖𝐍𝐄𝐑 💞", url=f"https://t.me/ltzz_me_innocent"),
+      InlineKeyboardButton(text="✰𝐎𝐖𝐍𝐄𝐑✰", url=f"https://t.me/ltzz_me_innocent"),
     ], 
     [
       InlineKeyboardButton(text="★ 𝐂ʟᴏ𝐬ᴇ ★", callback_data=f'cls'),
