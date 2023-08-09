@@ -30,7 +30,7 @@ async def _human_time_duration(seconds):
 @Royalboyamit.on_message(filters.command(["start", "help"]) & ~filters.group)
 async def start(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/ec42324c4b0f6d53a428e.jpg",
+        photo=f"https://graph.org/file/fca6d678a9db7e6d21c14.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 🥀 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝
 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
