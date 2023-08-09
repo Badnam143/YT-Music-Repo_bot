@@ -21,11 +21,11 @@ def ytsearch(query):
 def audio_markup(user_id):
   buttons = [
     [
-      InlineKeyboardButton(text="➷ 𝐔𝗽𝗱𝗮𝘁𝗲𝐒 ➹", url=f"https://t.me/khamoshiya01"),
-      InlineKeyboardButton(text="➹ 𝐒𝘂𝗽𝗽𝗼𝗿𝐓 ➷", url=f"https://t.me/friendship_forever_group143"),
+      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐔𝐏𝐃𝐀𝐓𝐄💞", url=f"https://t.me/khamoshiya01"),
+      InlineKeyboardButton(text="💞𝐉𝐎𝐈𝐍 ✰ 𝐆𝐑𝐎𝐔𝐏💞", url=f"https://t.me/friendship_forever_group143"),
     ],
     [
-      InlineKeyboardButton(text="✯ 𝗢𝘄𝗻𝗲𝗿'𝘅𝗗 ✯", url=f"https://t.me/ltzz_me_innocent"),
+      InlineKeyboardButton(text="💞𝐆𝐑𝐎𝐔𝐏 ✰ 𝐎𝐖𝐍𝐄𝐑 💞", url=f"https://t.me/ltzz_me_innocent"),
     ],
     [
       InlineKeyboardButton(text="★ 𝐂ʟᴏ𝐬ᴇ ★", callback_data=f'cls'),
