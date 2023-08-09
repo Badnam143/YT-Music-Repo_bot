@@ -155,7 +155,7 @@ async def play(c: Royalboyamit, m: Message):
         if len(m.command) < 2:
          await m.reply_photo(
                     photo=f"https://graph.org/file/3bfcbb7f0865277aea65d.jpg", 
-                    caption=f"**😂 KYA DEKH RHE HO 😜😉 SONG TO LIKH BABY🥀😉**"),
+                    caption=f"**😂 KYA DEKH RHE HO 😜😉 SONG TO LIKH DO BABY🥀😉**"),
         
         else:
             pokemon = await m.reply_text(
