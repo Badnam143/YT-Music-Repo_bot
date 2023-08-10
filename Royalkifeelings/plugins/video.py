@@ -246,8 +246,8 @@ async def vplay(c: Royalboyamit, m: Message):
     else:
         if len(m.command) < 2:
             await m.reply_photo(
-                     photo=f"https://graph.org/file/b54b89d9d4f7efe4fbd75.jpg",
-                     caption=f"**𝐔𝐬ᴀɢᴇ: /play 🤖 𝐆𝐢𝐯𝐞 🙃 𝐒𝐨𝐦𝐞 💿 𝐐𝐮𝐞𝐫𝐲 😍 𝐓𝐨 🔊 𝐏𝐥𝐚𝐲 🥀 𝐕𝐢𝐝𝐞𝐨 🌸 𝐒𝐨𝐧𝐠 🍁 𝐍𝐚𝐦𝐞...**", 
+                     photo=f"https://telegra.ph/file/b01dfddd2db774fd4387a.jpg",
+                     caption=f"**😁𝐀𝐢𝐬𝐞 𝐤𝐲𝐚 𝐝𝐞𝐤𝐡 𝐫𝐡𝐞 𝐝𝐚𝐫𝐥𝐢𝐧𝐠🥀🤭 𝐫𝐮𝐤𝐨 𝐉𝐚𝐫𝐚 𝐬𝐚𝐛𝐚𝐫 𝐤𝐫𝐨 𝐤𝐚𝐫𝐭𝐞 𝐡𝐚𝐢 𝐩𝐥𝐚𝐲🥀😉✨..**", 
          ) 
         else:
             loser = await c.send_message(chat_id, f"**Şєʌɾƈɦɪɲʛ ຖơɯ...**")
