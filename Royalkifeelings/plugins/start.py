@@ -30,7 +30,7 @@ async def _human_time_duration(seconds):
 @Royalboyamit.on_message(filters.command(["start", "help"]) & ~filters.group)
 async def start(_, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/df5e6a1c8a6f9a7176ab7.jpg",
+        photo=f"https://graph.org/file/b9d678ad8c4ff59360fdd.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 🥀 𝐇𝐞𝐥𝐥𝐨, 𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝
 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦
@@ -40,9 +40,9 @@ async def start(_, message: Message):
 𝐆𝐫𝐨𝐮𝐩 🌺 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 🌿 𝐒𝐮𝐩𝐞𝐫 𝐇𝐢𝐠𝐡
 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 𝐀𝐧𝐝 𝐕𝐢𝐝𝐞𝐨 🥀 ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝐂ʀᴇᴀᴛᴏʀ : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/DESAI_01)
-┣★ 𝐔ᴘᴅᴀᴛᴇ𝐒 : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BEST_FRIENDS_CHATTING_000)
-┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BEST_FRIENDS_CHATTING_000)
+┣★ 𝐂ʀᴇᴀᴛᴏʀ : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+BMOgjJGk0vhhNTll)
+┣★ 𝐔ᴘᴅᴀᴛᴇ𝐒 : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+BMOgjJGk0vhhNTll)
+┣★ 𝐒ᴜᴘᴘᴏʀᴛ : [𝐂ʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+BMOgjJGk0vhhNTll)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇ𝐒ᴛɪᴏɴ𝐒 ᴛʜᴇɴ
@@ -52,7 +52,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✯ 𝐉ᴏɪɴ 𝐌ʏ 𝐂ʜᴀᴛ 𝐆ʀᴏᴜᴘ ✯", url=f"https://t.me/BEST_FRIENDS_CHATTING_000")
+                        "✯ 𝐉ᴏɪɴ 𝐌ʏ 𝐂ʜᴀᴛ 𝐆ʀᴏᴜᴘ ✯", url=f"https://t.me/+BMOgjJGk0vhhNTll")
                 ]
                 
            ]
