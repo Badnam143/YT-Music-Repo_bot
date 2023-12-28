@@ -154,7 +154,7 @@ async def play(c: Royalboyamit, m: Message):
     else:
         if len(m.command) < 2:
          await m.reply_photo(
-                    photo=f"https://telegra.ph/file/b01dfddd2db774fd4387a.jpg", 
+                    photo=f"https://graph.org/file/b9d678ad8c4ff59360fdd.jpg", 
                     caption=f"**😁𝐀𝐢𝐬𝐞 𝐤𝐲𝐚 𝐝𝐞𝐤𝐡 𝐫𝐡𝐞 𝐝𝐚𝐫𝐥𝐢𝐧𝐠🥀🤭 𝐫𝐮𝐤𝐨 𝐉𝐚𝐫𝐚 𝐬𝐚𝐛𝐚𝐫 𝐤𝐫𝐨 𝐤𝐚𝐫𝐭𝐞 𝐡𝐚𝐢 𝐩𝐥𝐚𝐲🥀😉✨..**"),
         
         else:
